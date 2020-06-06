@@ -6,4 +6,4 @@
 + matching names (compound names supported too!)
 + matching Nigerian zipcodes. 
 
-I will be updating the [`regex.js`](#) file when I write regex to match to match common patterns. Feel free to open issues or contribute. I accept pull requests too!  :)
+I will be updating the [`regex.js`](https://github.com/simeon4real/Regular-Expressions/blob/master/regex.js) file when I write regex to match to match common patterns. Feel free to open issues or contribute. I accept pull requests too!  :)
